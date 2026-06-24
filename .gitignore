@@ -1,0 +1,7 @@
+# Ignore generated SQLite database and outputs
+restaurant_reviews.db
+output/
+
+# Python caches
+__pycache__/
+*.py[cod]
